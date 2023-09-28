@@ -1,0 +1,96 @@
+.gp{
+    position: absolute;
+    width: 400px;
+   
+    left: 500px;
+    top: 130px;
+}
+.play{
+    position: absolute;
+    left: 600px;
+    top: 360px;
+    width: 200px;
+}
+.bg{
+    position: absolute;
+    width: 1340px;
+    top: -470px;
+}
+.su{
+    position: absolute;
+    width: 500px;
+    left: 440px;
+    top: 20px;
+}
+.op1{
+    position: absolute;
+    width: 200px;
+    left: 250px;
+    top: 200px;
+}
+.op2{
+    position: absolute;
+    width: 200px;
+    left: 600px;
+    top: 200px;
+}
+.op3{
+    position: absolute;
+    width: 200px;
+    left: 950px;
+    top: 200px;
+}
+.ar{
+    position: absolute;
+    width: 100px;
+    left: 25px;
+    top: 10px;
+}
+.icon{
+    position: absolute;
+    width: 90px;
+    left: 1220px;
+    top: 20px;
+}
+.song{
+    position: absolute;
+    width: 80px;
+    left: 1100px;
+    top: 30px;
+}
+.wd1{
+    position: absolute;
+    width: 130px;
+    left: 285px;
+    top: 370px;
+}
+.wd2{
+    position: absolute;
+    width: 140px;
+    left: 630px;
+    top: 370px;
+}
+.wd3{
+    position: absolute;
+    width: 150px;
+    left: 975px;
+    top: 375px;
+}
+.box{
+    position: absolute;
+    width: 400px;
+    left: 500px;
+    top: 100px;
+}
+.sum{
+    position: absolute;
+    left: 570px;
+    top: 550px;
+    width: 250px;
+}
+.con{
+    position: absolute;
+    width: 800px;
+    left: 500px;
+    top: 500px;
+}
